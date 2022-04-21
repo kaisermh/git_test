@@ -4,4 +4,4 @@ print(6)
 print(8)
 print(10)
 
-print('premium')
+print('main')

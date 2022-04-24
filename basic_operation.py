@@ -4,6 +4,3 @@ print(6)
 print(8)
 
 print('main')
-
-def square(a):
-    print(a*a)
